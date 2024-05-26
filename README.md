@@ -1,3 +1,3 @@
 # **Human_Resources**
 
-#### The insights from human Resource Department
+## This human resource project aims to provide insights  
