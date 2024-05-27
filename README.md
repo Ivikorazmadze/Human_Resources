@@ -15,6 +15,9 @@
 
 The report provides insights about employees distribution in different fields  
 
+<img width="603" alt="Overview" src="https://github.com/Ivikorazmadze/Human_Resources/assets/115480932/871d87ff-8f4b-42c0-957e-eeb51285a59f">
+
+
 ### Tools
 
 - Data Source - Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/p/excel-home-and-student/CFQ7TTC0HLKR?activetab=pivot:overviewtab)
