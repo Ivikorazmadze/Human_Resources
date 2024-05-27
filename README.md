@@ -12,6 +12,7 @@
 - [Limitations](#limitations)
 
 ### Project Overview 
+---
 
 The report provides insights about employees distribution in different fields  
 
@@ -19,6 +20,7 @@ The report provides insights about employees distribution in different fields
 
 
 ### Tools
+---
 
 - Data Source - Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/p/excel-home-and-student/CFQ7TTC0HLKR?activetab=pivot:overviewtab)
 
@@ -27,6 +29,7 @@ The report provides insights about employees distribution in different fields
 - Data Visualization - PowerBI [Download here](https://dev.mysql.com/downloads/workbench/)
 
 ### Data Preparation
+---
 
 The initial data took several tasks to elaborate
 1) Data Loading and inspection
@@ -36,6 +39,7 @@ The initial data took several tasks to elaborate
 3) Data formating
 
 ### Explaratory Data Analysis 
+---
 
 EDA involved in the following report to answer key questions, such as:
 
@@ -52,6 +56,7 @@ EDA involved in the following report to answer key questions, such as:
 - Age Group Distribution
 
 ### Data Analysis
+---
 
 Data Analysis featured following syntaxes:
 
@@ -169,6 +174,7 @@ GROUP BY department
 ```
 
 ### Results/Findings
+---
 
 The analysis are as follows:
 - 84.1 % of employees are between 25 and 54 years
@@ -179,12 +185,14 @@ The analysis are as follows:
 - 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A large number of employees were between 25-34 followed by 35-44 while the smallest group was 55-64
 
 ### Recommendations
+---
 
 Based on the analysis we recommend the following:
 - prioritize remote working to attract 18-24 age group employees
 - Take a deeper look at marketing department to eliminate the turnover ratio
 
 ### Limitations
+---
 
 - I had to remove blank cells from termdate column as it would have effected the accuracy of the report
 - I concluded that people <= 18 could not accepted as an employees
